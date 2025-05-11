@@ -6,22 +6,8 @@
 
 Overwrite the preview of the folder containing readme to readme
 
-还没有上传github
-
-## Try out
-
-1. Go to [Release page](https://github.com/QL-Win/QuickLook.Plugin.FolderReadme/releases) and download the latest version.
-2. Make sure that you have QuickLook running in the background. Go to your Download folder, and press <key>Spacebar</key> on the downloaded `.qlplugin` file.
-3. Click the “Install” button in the popup window.
-4. Restart QuickLook.
-6. Select the folder and press <key>Spacebar</key>.
-
-## Development
-
- 1. Clone this project. Do not forget to update submodules.
- 2. Build project with `Release` profile.
- 3. Run `Scripts\pack-zip.ps1`.
- 4. You should find a file named `QuickLook.Plugin.FolderReadme.qlplugin` in the project directory.
+## 使用效果
+![alt text](image.png)
 
 ## License
 
